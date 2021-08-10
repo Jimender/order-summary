@@ -138,7 +138,7 @@ p {
 
 .btn--change:hover {
   text-decoration: none;
-  color: #766cf1;
+  color: var(--color-primary-button-light);
 }
 
 .btn--proceed:link,
